@@ -1,0 +1,19 @@
+{
+  "name": "aut-pro-firstname-lastname",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertocgongora/aut-pro-firstName-lastName.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertocgongora/aut-pro-firstName-lastName/issues"
+  },
+  "homepage": "https://github.com/robertocgongora/aut-pro-firstName-lastName#readme"
+}
